@@ -1,0 +1,7 @@
+*pyc
+*~
+__pycache__
+zuri_django
+/static
+settings.py
+db.sqlite3
