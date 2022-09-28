@@ -1,7 +1,6 @@
 # my_zuridjango_app
 
 
-
 I Created a new Python virtual environment.
 
  
